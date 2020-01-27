@@ -1,0 +1,11 @@
+C:\Users\Gloria\Documents\immersion\project 1\bin\MCD\Debug\netcoreapp2.2\project 1.deps.json
+C:\Users\Gloria\Documents\immersion\project 1\bin\MCD\Debug\netcoreapp2.2\project 1.runtimeconfig.json
+C:\Users\Gloria\Documents\immersion\project 1\bin\MCD\Debug\netcoreapp2.2\project 1.runtimeconfig.dev.json
+C:\Users\Gloria\Documents\immersion\project 1\bin\MCD\Debug\netcoreapp2.2\project 1.dll
+C:\Users\Gloria\Documents\immersion\project 1\bin\MCD\Debug\netcoreapp2.2\project 1.pdb
+C:\Users\Gloria\Documents\immersion\project 1\obj\MCD\Debug\netcoreapp2.2\project 1.csprojAssemblyReference.cache
+C:\Users\Gloria\Documents\immersion\project 1\obj\MCD\Debug\netcoreapp2.2\project 1.csproj.CoreCompileInputs.cache
+C:\Users\Gloria\Documents\immersion\project 1\obj\MCD\Debug\netcoreapp2.2\project 1.AssemblyInfoInputs.cache
+C:\Users\Gloria\Documents\immersion\project 1\obj\MCD\Debug\netcoreapp2.2\project 1.AssemblyInfo.cs
+C:\Users\Gloria\Documents\immersion\project 1\obj\MCD\Debug\netcoreapp2.2\project 1.dll
+C:\Users\Gloria\Documents\immersion\project 1\obj\MCD\Debug\netcoreapp2.2\project 1.pdb

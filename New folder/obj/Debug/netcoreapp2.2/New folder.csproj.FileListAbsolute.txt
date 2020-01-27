@@ -1,0 +1,16 @@
+C:\Users\Gloria\Documents\immersion\New folder\bin\Debug\netcoreapp2.2\New folder.deps.json
+C:\Users\Gloria\Documents\immersion\New folder\bin\Debug\netcoreapp2.2\New folder.runtimeconfig.json
+C:\Users\Gloria\Documents\immersion\New folder\bin\Debug\netcoreapp2.2\New folder.runtimeconfig.dev.json
+C:\Users\Gloria\Documents\immersion\New folder\bin\Debug\netcoreapp2.2\New folder.dll
+C:\Users\Gloria\Documents\immersion\New folder\bin\Debug\netcoreapp2.2\New folder.pdb
+C:\Users\Gloria\Documents\immersion\New folder\obj\Debug\netcoreapp2.2\New folder.csprojAssemblyReference.cache
+C:\Users\Gloria\Documents\immersion\New folder\obj\Debug\netcoreapp2.2\New folder.RazorAssemblyInfo.cache
+C:\Users\Gloria\Documents\immersion\New folder\obj\Debug\netcoreapp2.2\New folder.RazorAssemblyInfo.cs
+C:\Users\Gloria\Documents\immersion\New folder\obj\Debug\netcoreapp2.2\New folder.AssemblyInfoInputs.cache
+C:\Users\Gloria\Documents\immersion\New folder\obj\Debug\netcoreapp2.2\New folder.AssemblyInfo.cs
+C:\Users\Gloria\Documents\immersion\New folder\obj\Debug\netcoreapp2.2\New folder.RazorTargetAssemblyInfo.cache
+C:\Users\Gloria\Documents\immersion\New folder\obj\Debug\netcoreapp2.2\New folder.dll
+C:\Users\Gloria\Documents\immersion\New folder\obj\Debug\netcoreapp2.2\New folder.pdb
+C:\Users\Gloria\Documents\immersion\New folder\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Gloria\Documents\immersion\New folder\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Gloria\Documents\immersion\New folder\bin\Debug\netcoreapp2.2\Properties\launchSettings.json

@@ -1,0 +1,11 @@
+C:\Users\segxy\Documents\cpp\emailsender\bin\Debug\netcoreapp3.0\emailsender.exe
+C:\Users\segxy\Documents\cpp\emailsender\bin\Debug\netcoreapp3.0\emailsender.deps.json
+C:\Users\segxy\Documents\cpp\emailsender\bin\Debug\netcoreapp3.0\emailsender.runtimeconfig.json
+C:\Users\segxy\Documents\cpp\emailsender\bin\Debug\netcoreapp3.0\emailsender.runtimeconfig.dev.json
+C:\Users\segxy\Documents\cpp\emailsender\bin\Debug\netcoreapp3.0\emailsender.dll
+C:\Users\segxy\Documents\cpp\emailsender\bin\Debug\netcoreapp3.0\emailsender.pdb
+C:\Users\segxy\Documents\cpp\emailsender\obj\Debug\netcoreapp3.0\emailsender.csprojAssemblyReference.cache
+C:\Users\segxy\Documents\cpp\emailsender\obj\Debug\netcoreapp3.0\emailsender.AssemblyInfoInputs.cache
+C:\Users\segxy\Documents\cpp\emailsender\obj\Debug\netcoreapp3.0\emailsender.AssemblyInfo.cs
+C:\Users\segxy\Documents\cpp\emailsender\obj\Debug\netcoreapp3.0\emailsender.dll
+C:\Users\segxy\Documents\cpp\emailsender\obj\Debug\netcoreapp3.0\emailsender.pdb
